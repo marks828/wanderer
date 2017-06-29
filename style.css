@@ -1,9 +1,18 @@
 .wf{
   width: 30%;
+  margin: 0 auto;
+}
+
+div{
+  text-align: center
 }
 
 .balsamiq{
   width: 15%;
+}
+
+.personadiv{
+  text-align: center;
 }
 
 .bal{
