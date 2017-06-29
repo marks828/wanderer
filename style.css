@@ -1,0 +1,25 @@
+.wf{
+  width: 30%;
+}
+
+.balsamiq{
+  width: 15%;
+}
+
+.bal{
+  display: flex;
+  justify-content: space-between;
+}
+
+.balsamiq{
+  align-self: center;
+}
+
+.title, .logo{
+  text-align: center;
+}
+
+.section{
+  width: 90%;
+  margin: auto;
+}
